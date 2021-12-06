@@ -1,0 +1,9 @@
+[submodule "helloflask"]
+	path = helloflask
+	url = https://github.com/greyli/helloflask.git
+[submodule "hello"]
+	path = hello
+	url = https://github.com/javierbajo/hello.git
+[submodule "php"]
+	path = php
+	url = https://github.com/prafulrana/php.git
